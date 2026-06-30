@@ -1,2 +1,2 @@
-# codsoft_tasks
+# CODSOFT
 CODSOFT Web Development Internship Projects
